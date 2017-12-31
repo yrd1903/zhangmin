@@ -1,2 +1,2 @@
 this is a new file.
-this is a newest change in master.
+this is the merged file.
